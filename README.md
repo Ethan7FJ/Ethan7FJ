@@ -1,5 +1,7 @@
 ## 👋!Me presento, soy Johan Fetecua! (@Ethan7FJ)
 
+👩‍💻Soy un desarrollador fullsktack junior
+
 <!--
 **Ethan7FJ/Ethan7FJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
