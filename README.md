@@ -1,6 +1,6 @@
 ## 👋!Me presento, soy Johan Fetecua! (@Ethan7FJ)
 
-👩‍💻Soy un desarrollador fullsktack junior
+👩‍💻Soy un desarrollador fullsktack junior, con experiencia en backend, frontend, optimización y automatización de sistemas, buscando un rendimiento y eficiencia adecuado en las aplicaciones. Actualmente, tengo un Tecnólogo en Análisis y Desarrollo de Software.
 
 <!--
 **Ethan7FJ/Ethan7FJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-asdasdasda
