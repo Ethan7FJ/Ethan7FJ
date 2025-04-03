@@ -7,8 +7,6 @@
 📚 Actualmente me encuentro estudiando un Tecnólogo en Análisis y Desarrollo de Software - SENA.\
 💡 Dispuesto a adquirir nueva información, así como aumentar más mis conocimientos acerca de lenguajes de programación, diseño, integración de API's, entre otros.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Habilidades en programación
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
