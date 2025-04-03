@@ -40,7 +40,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=S.P.A.C" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Ethan7FJ/PJManzanas.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=PJManzanas.git" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=PJManzanas" alt="GitHub Stats" />
     </a>
   </p>
 </div>
