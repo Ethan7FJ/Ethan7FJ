@@ -3,9 +3,13 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
-👩‍💻 Soy un desarrollador junior, con experiencia en backend, frontend, optimización y automatización de sistemas, buscando un rendimiento y eficiencia adecuado en las aplicaciones.\
+👩‍💻 Soy un desarrollador junior, con experiencia en backend, frontend, centrado en la optimización y automatización de aplicaciones.\
+💼 Actualmente me encuentro en el área de Transformación Digital en Meltec Comunicaciones S.A.\
 📚 Actualmente me encuentro estudiando un Tecnólogo en Análisis y Desarrollo de Software - SENA.\
 💡 Dispuesto a adquirir nueva información, así como aumentar más mis conocimientos acerca de lenguajes de programación, diseño, integración de API's, entre otros.
+📧 Puedes contactarme por medio de correo electrónico a johanfetecua11@gmail.com.
+
+<!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
 
 ### 🛠 &nbsp;Habilidades en programación
 
@@ -22,12 +26,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
+
 ### ⚙️ &nbsp;GitHub Análisis
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ethan7FJ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ethan7FJ&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+<!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
 
 ### 🤝🏻 &nbsp;Contráctate conmigo
 
