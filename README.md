@@ -34,6 +34,6 @@
 ### 🤝🏻 &nbsp;Contráctate conmigo
 
 <p align="center">
-<a href="mailto:johanfetecua11@gmail.com"><img src="https://img.shields.io/badge/-johanfetecua11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:johanfetecua11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline=14"/></a>
 <a href="https://www.linkedin.com/in/johan-fetecua-23a026358"><img src="https://img.shields.io/badge/-johanfetecua11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
