@@ -39,6 +39,9 @@
     <a href="https://github.com/Ethan7FJ/S.P.A.Cv2.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=S.P.A.C" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/Ethan7FJ/JS_Manzanas.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=JS_Manzanas" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
