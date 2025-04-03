@@ -10,7 +10,7 @@
 ### 🛠 &nbsp;Habilidades en programación
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/react-d8ecff.svg?style=for-the-badge&logo=react&logoColor=%2564a3)&nbsp;
+![React](https://img.shields.io/badge/react-d8ecff.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React%20Natie-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
