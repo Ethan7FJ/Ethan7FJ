@@ -15,7 +15,7 @@
 
 <!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
 
-### 🛠 &nbsp;Habilidades en programación
+### 🛠 &nbsp;Habilidades en programación ***
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
