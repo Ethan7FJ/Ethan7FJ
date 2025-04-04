@@ -8,6 +8,7 @@
 💼 Actualmente me encuentro en el área de Transformación Digital en Meltec Comunicaciones S.A.\
 📚 Actualmente me encuentro estudiando un Tecnólogo en Análisis y Desarrollo de Software - SENA.\
 💡 Dispuesto a adquirir nueva información, así como aumentar más mis conocimientos acerca de lenguajes de programación, diseño, integración de API's, entre otros.
+
 📧 Puedes contactarme en: johanfetecua11@gmail.com.\
 - 🌱 En estos momentos me encuentro aprendiendo ...
   - Angular
