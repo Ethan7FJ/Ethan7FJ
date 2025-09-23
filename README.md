@@ -17,7 +17,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React%20Natie-05122A?style=flat&logo=react)&nbsp;
+![Next.Js](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextjs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-05122A?style=flat&logo=phpmyadmin)&nbsp;
