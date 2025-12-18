@@ -77,10 +77,10 @@
 ###
 
 <h1 aling="center">📁Echa un vistazo a mi repositorio</h1>
+
 ###
 
-
-<div>
+<div align="center">
   <p>
     <a href="https://github.com/Ethan7FJ/S.P.A.Cv2.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=S.P.A.C&theme=dracula" alt="GitHub Stats" />
