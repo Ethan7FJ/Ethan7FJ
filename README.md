@@ -1,60 +1,82 @@
-<h2>Hola me presento! Yo soy Johan Fetecua</h2>
-
-<!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
-
-### 👨🏻‍💻 &nbsp;Acerca de mi
-
-👩‍💻 Soy un desarrollador junior, con experiencia en backend, frontend, centrado en la optimización y automatización de aplicaciones.\
-💼 Actualmente me encuentro en el área de Transformación Digital en Meltec Comunicaciones S.A.\
-📚 Cuento con un Técnico en Especialización en Sistemas - Bachiller Técnico.\
-📚 Cuento con un Tecnólogo en Análisis y Desarrollo de Software - SENA.\
-💡 Dispuesto a adquirir nueva información, así como aumentar más mis conocimientos acerca de lenguajes de programación, diseño, integración de API's, entre otros.\
-📧 Puedes contactarme en: johanfetecua11@gmail.com.
-
-<!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
-
-### 🛠 &nbsp;Habilidades en programación
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.Js](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextjs)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-05122A?style=flat&logo=phpmyadmin)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
-
-### 📁Echa un vistazo a mi repositorio
-
 <div>
-  <p>
-    <a href="https://github.com/Ethan7FJ/S.P.A.Cv2.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=S.P.A.C" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Ethan7FJ/PJManzanas.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=PJManzanas" alt="GitHub Stats" />
-    </a>
-  </p>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-### ⚙️ &nbsp;GitHub Análisis
+###
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ethan7FJ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ethan7FJ&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+<h1 align="center">Hola me presento! Yo soy Johan Fetecua</h1>
 
-<!-- ## 👋 &nbsp;Me presento! Yo soy Johan Fetecua -->
+###
 
-### 🤝🏻 &nbsp;Contráctate conmigo
+<h4 align="left">👨🏻‍💻  Acerca de mi<br>👩‍💻 Soy un desarrollador junior, con experiencia en backend, frontend, centrado en la optimización y automatización de aplicaciones.<br>💼 Actualmente me encuentro en el área de Transformación Digital en Meltec Comunicaciones S.A.<br>📚 Cuento con un Técnico en Especialización en Sistemas - Bachiller Técnico.<br>📚 Cuento con un Tecnólogo en Análisis y Desarrollo de Software - SENA.<br>💡 Dispuesto a adquirir nueva información, así como aumentar más mis conocimientos acerca de lenguajes de programación, diseño, integración de API's, entre otros.<br>📧 Puedes contactarme en: johanfetecua11@gmail.com.</h4>
 
-<p align="center">
-<a href="mailto:johanfetecua11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline=14"/></a>
-<a href="https://www.linkedin.com/in/johan-fetecua-23a026358"><img src="https://skillicons.dev/icons?i=linkedin&perline=14"/></a>
-</p>
+###
+
+<h1 align="center">🛠  Habilidades en programación</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="60" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+</div>
+
+###
+
+<h1 align="center">🤝🏻  Contráctate conmigo</h1>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
+
+<h1 align="center">⚙️  GitHub Análisis</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ethan7FJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethan7FJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Ethan7FJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=Ethan7FJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ethan7FJ/Ethan7FJ/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ethan7FJ/Ethan7FJ/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ethan7FJ/Ethan7FJ/output/pacman-contribution-graph.svg">
+</picture>
+
+###
