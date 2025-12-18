@@ -76,7 +76,7 @@
 
 ###
 
-<h1 aling="center">📁Echa un vistazo a mi repositorio</h1>
+<h1 aling="center">📁Echa un vistazo a mis repositorio</h1>
 
 ###
 
