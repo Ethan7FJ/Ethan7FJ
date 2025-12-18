@@ -55,7 +55,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/johan-fetecua-23a026358/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a/>
+  </a>
   <a href="mailto:johanfetecua@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -76,10 +76,17 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ethan7FJ/Ethan7FJ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ethan7FJ/Ethan7FJ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ethan7FJ/Ethan7FJ/output/pacman-contribution-graph.svg">
-</picture>
-
+<h1 aling="center">📁Echa un vistazo a mi repositorio</h1>
 ###
+
+
+<div>
+  <p>
+    <a href="https://github.com/Ethan7FJ/S.P.A.Cv2.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=S.P.A.C&theme=dracula" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Ethan7FJ/Dashboard-Frontend-NextJS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ethan7FJ&repo=Dashboard-Frontend-NextJS&theme=dracula" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
