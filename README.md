@@ -67,6 +67,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ethan7FJ&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="250" alt="stats graph" /> <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethan7FJ&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph" /> <br/>
+ <img src="https://nirzak-streak-stats.vercel.app/?user=Ethan7FJ&theme=dracula&hide_border=false" height="250" alt="languages graph" /> <br/>
 </div>
 
 ###
